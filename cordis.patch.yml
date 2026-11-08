@@ -1,0 +1,4 @@
+# dsh-menu-anchor-fix bundle patch: register the host fiber.
+- insert:
+    - id: menu-anchor-fix
+      name: dsh-menu-anchor-fix
